@@ -8,7 +8,7 @@ I saw [this](https://github.com/blog/1845-psd-viewing-diffing) article on the Gi
 ## Features
 
 - **Smart Objects** - Just double click the "Artwork here" layer and paste in your poster artwork.
-- **Multiple size** - Include are two of the most popular sizes of posters (in the US), 18x24", and second folder group for 4x6 ratio posters (12x18", 20x30", 24x36).
+- **Multiple size** - Include are two of the most popular sizes of posters (in the US), 18x24", and second folder group for 4x6 ratio posters (12x18", 20x30", 24x36). Both sizes include portrait and landscape orientation mockups.
 - **Editable** - Easily change the background colors using layers styles and effects.
 
 
