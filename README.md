@@ -5,6 +5,8 @@ I often times find myself needing simple poster mockup for use on the web. It al
 
 I saw [this](https://github.com/blog/1845-psd-viewing-diffing) article on the Github blog the other day, so I thought it would be fun to take advantage of this cool new feature. It's a rough start, so by all means fork it and make it better.
 
+![preview image](https://raw.githubusercontent.com/levimcg/poster-mockups/master/poster-mockup-preview.png)
+
 ## Features
 
 - **Smart Objects** - Just double click the "Artwork here" layer and paste in your poster artwork.
